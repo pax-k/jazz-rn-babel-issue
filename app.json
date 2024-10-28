@@ -15,14 +15,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.hmbrg.jazz-rn-babel-issue"
+      "bundleIdentifier": "com.hmbrg.jazz"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.hmbrg.jazz-rn-babel-issue"
+      "package": "com.hmbrg.jazz"
     },
     "web": {
       "bundler": "metro",
